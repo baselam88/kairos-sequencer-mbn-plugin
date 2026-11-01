@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Orders channel work: volume on what works until it breaks, then fix the drop-off step, then \u2014 and only then \u2014 a new channel.",
+  "keywords": [
+    "kairos",
+    "mbn",
+    "sequencer",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-sequencer-mbn",
+  "repository": "https://github.com/baselam88/kairos-sequencer-mbn-plugin",
+  "version": "0.1.0"
+}
